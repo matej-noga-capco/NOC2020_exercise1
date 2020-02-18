@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "username": "test",
+    "firstName": "Peter",
+    "lastName": "Hafko",
+    "birthDate": "1968-11-16",
+    "iban": "KZ191623678766217892",
+    "token": "0.v7s1krx7fco"
+  },
+  {
+    "id": 2,
+    "username": "admin",
+    "firstName": "Igor",
+    "lastName": "Horvath",
+    "birthDate": "1989-01-28",
+    "iban": "GI38MTVY254529485653147"
+  }
+]
